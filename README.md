@@ -7,5 +7,5 @@ Computer mouses have been in existence for a long time now, but they never seem 
 For my ECE 5725 final project, I created a Raspberry Pi-mounted glove that works as a computer mouse, thus naming it a Rat Glove. The Rat Glove has various capabilites, from simple mouse control to near-real-life usage of 3D software, which can be accessed via a user-inactive GUI program that is displayed on the piTFT screen. The GUI program displays five different applications: normal mouse control, puzzle solver, finger gesture customization, 3D software, and first-person shooter (FPS) game. Also, the mouse cursor on the computer screen receives its movement commands from the Rat Glove via Bluetooth. In addition, we implemented all of the main programs for this project in Python.
 
 <p align="center">
-  <img src="https://github.com/vishishttiwari/Customizable-Computer-Mouse-Controller/blob/master/Rat_Glove_1.PNG" width="400">
+  <img src="https://github.com/vishishttiwari/Customizable-Computer-Mouse-Controller/blob/master/Rat_Glove_1.PNG" width="400"><img src="https://github.com/vishishttiwari/Customizable-Computer-Mouse-Controller/blob/master/Rat_Glove_2.jpg" width="400">
 </p>
